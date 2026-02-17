@@ -8,7 +8,10 @@ category: release
 
 We're proud to announce the inaugural release of our long-term project - version 1.0.0. Drawing on decades of experience in investment management, this milestone represents... Contact [@pd](https://www.linkedin.com/in/piotr-dzierzanowski-6205a39a/?trk=opento_sprofile_details) for implementation details.
 
-- Quick start ([example](https://www.youtube.com/watch?v=wj7fq_3ysZc){:target="_blank"})
+- **Quick start**
+  <iframe width="560" height="315" src="https://www.youtube-nocookie.com" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+
 - Define signal ([example](https://www.youtube.com/watch?v=wj7fq_3ysZc){:target="_blank"})
 - Sync signal ([example](https://www.youtube.com/watch?v=wj7fq_3ysZc){:target="_blank"})
 - Define indicator ([example](https://www.youtube.com/watch?v=wj7fq_3ysZc){:target="_blank"})
