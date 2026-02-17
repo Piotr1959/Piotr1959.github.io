@@ -8,10 +8,7 @@ category: release
 
 We're proud to announce the inaugural release of our long-term project - version 1.0.0. Drawing on decades of experience in investment management, this milestone represents... Contact [@pd](https://www.linkedin.com/in/piotr-dzierzanowski-6205a39a/?trk=opento_sprofile_details) for implementation details.
 
-
-- **Quick start**
-  [![example](https://img.youtube.com)](https://www.youtube.com/watch?v=wj7fq_3ysZc)
-
+- Quick start ([example](https://www.youtube.com/watch?v=wj7fq_3ysZc){:target="_blank"})
 - Define signal ([example](https://www.youtube.com/watch?v=wj7fq_3ysZc){:target="_blank"})
 - Sync signal ([example](https://www.youtube.com/watch?v=wj7fq_3ysZc){:target="_blank"})
 - Define indicator ([example](https://www.youtube.com/watch?v=wj7fq_3ysZc){:target="_blank"})
