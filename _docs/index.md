@@ -25,7 +25,7 @@ After each update, recalculated results are sent to the target system for real-t
 
 CatSMS requires the following:
 
-* Windows version **{{ site.data.windows.min_version }}** or other system with RDP Client
+* Windows version **{{ site.data.windows.min_version }}** or other system with HTTPS Browser
 * Screen resolution 1024x768 or higher
 * Internet connection
 
