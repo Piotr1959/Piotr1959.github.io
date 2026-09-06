@@ -1,17 +1,21 @@
----
 version: 1.0.0
-name: CutSMS • Documentation, blog-aware, static sites
-description: Transform your management ideas into real time process.
-url: https://jekyllrb.com
-repository: https://github.com/jekyll/jekyll
+name: CATSMS – Recursive Time-Series Engine for AI/ML
+description: Domain-agnostic, infinite feature chaining for FinTech, Industry 4.0, and cross-domain AI platforms.
+url: https://piotr1959.github.io
+repository: https://github.com/piotr1959/piotr1959.github.io
 site_branch: master
-timezone: America/Los_Angeles
+timezone: Europe/Berlin
+
+# Remove or update these if you don't use them
 twitter:
-  username: jekyllrb
-logo: "/img/logo-cutsms.svg"
-google_analytics_id: UA-50755011-1
-google_site_verification: onQcXpAvtHBrUI5LlroHNE_FP0b2qvFyPq7VZw36iEY
-cloudinary_url: https://res.cloudinary.com/jekyll/image/upload/f_auto,q_auto,w_404
+  username: piotrdzierzanowski
+
+# Update these if you have your own assets
+logo: "/img/logo-catsms.svg"
+google_analytics_id: 
+google_site_verification: 
+cloudinary_url: 
+
 collections:
   docs:
     permalink: "/:collection/:path/"
@@ -22,6 +26,7 @@ collections:
   tutorials:
     permalink: "/:collection/:path/"
     output: true
+
 defaults:
 - scope:
     path: _docs
@@ -41,8 +46,10 @@ defaults:
 - scope:
     path: ''
   values:
-    image: "/img/jekyll-og.png"
+    image: "/img/catsms-og.png"
+
 future: true
+
 plugins:
 - jekyll-avatar
 - jekyll-feed
@@ -51,16 +58,21 @@ plugins:
 - jekyll-seo-tag
 - jekyll-sitemap
 - jemoji
+
 feed:
   categories:
   - release
+
 kramdown:
   syntax_highlighter_opts:
     default_lang: plaintext
     math_engine: mathjax
+
 sass:
   style: compressed
+
 strict_front_matter: true
+
 exclude:
 - icomoon-selection.json
 - readme.md
