@@ -6,6 +6,9 @@ repository: https://github.com/piotr1959/piotr1959.github.io
 site_branch: master
 timezone: Europe/Berlin
 
+# Custom footer (overrides theme default)
+footer_content: "© 2026 INS GmbH. All rights reserved. | Contact: piotr@dzierzzanowski.com"
+
 # Remove or update these if you don't use them
 twitter:
   username: piotrdzierzanowski
