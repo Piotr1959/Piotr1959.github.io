@@ -6,7 +6,7 @@ redirect_from:
   - /docs/quickstart/
   - /docs/extras/
 ---
-CutSMS operates as an external platform accessible through RDP protocol. The system integrates three core functional modules.
+CutSMS operates as an external platform accessible through HTTPS protocol. The system integrates three core functional modules.
 
 {: .note .info} 
 Frontend<br>
