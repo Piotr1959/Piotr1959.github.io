@@ -9,8 +9,13 @@ CatSMS growing system produces new Domains sets, tutorials
 and other resources that can be helpful.
 
 ## Domains
-- [Investment]()
-- [Economy]()
-- [Accenting]()
+- [Accounting]()
 - [Bookkeeping]()
+- [Construction]()
+- [Ecology]()
+- [Economy]()
+- [Electronic]()
+- [Investment]()
+- [Project]()
+- [Transport]()
 - [Warehouse]()
