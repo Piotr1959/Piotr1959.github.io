@@ -5,7 +5,7 @@ permalink: /docs/usage/
 
 Under construction.
 
-Vertical menu `Switch Command`
+Vertical menu `Switch Layout` on the left site.
 
 Here is the list:
 
