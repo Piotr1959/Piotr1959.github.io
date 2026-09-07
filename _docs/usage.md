@@ -4,7 +4,8 @@ permalink: /docs/usage/
 ---
 
 Under construction.
-Verticla menu Switch command
+
+Vertical menu `Switch Command`
 
 Here is the list:
 
