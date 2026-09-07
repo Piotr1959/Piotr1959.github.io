@@ -6,32 +6,32 @@ Under construction.
 
 CutSMS `signals` is an abstract vector that keeps values with defined units, according to the selected `time grid`.
 
-{: .note .info} 
-Signals<br>
 There are following signals types:
-source, sync, indicator, model, time grid, weight
-Management system for [signals](), [indicators]() and [models]()
 
+{: .note .info} 
+Source<br>
+original signal captured from origin 
+Management system for [signals](), [indicators]() and [models]()
 
 {: .note .info} 
 Sync<br>
-The database system stores the structure of predefined signals, indicators, and models across domains (e.g., Investment, Economy, Production). This module collects new data for active signals from multiple sources at regular intervals.
+original signal without gaps or errors synchronized with selected [Time grid] signal
 
 {: .note .info} 
 Indicator<br>
-After each update, recalculated results are sent to the target system for real-time processing—enabling monitoring, optimization, forecasting, AI-driven decisions, and other workflow modules. 
+new calculated signal from minimum two [Sync] signals (simple recursion and aggregation of information)
 
 {: .note .info} 
 Model<br>
-After each update, recalculated results are sent to the target system for real-time processing—enabling monitoring, optimization, forecasting, AI-driven decisions, and other workflow modules. 
+complex calculated signal from other [Sync], [Indicator], [Model] (complex recursion and aggregation of information)
 
 {: .note .info} 
 Weight<br>
-After each update, recalculated results are sent to the target system for real-time processing—enabling monitoring, optimization, forecasting, AI-driven decisions, and other workflow modules. 
+technical signal kipping values from range (-1;1) without defined unit synchronized to selected [Time grid]  
 
 {: .note .info} 
 Time grid<br>
-After each update, recalculated results are sent to the target system for real-time processing—enabling monitoring, optimization, forecasting, AI-driven decisions, and other workflow modules. 
+signal kipping values of time interval
 
 See [Requirements]({{ '/docs/registration/#requirements' | relative_url }}) for guides and details.
 
