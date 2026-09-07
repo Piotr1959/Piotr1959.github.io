@@ -1,10 +1,6 @@
 ---
 title: Signals
 permalink: /docs/signals/
-redirect_from:
-  - /docs/home/
-  - /docs/quickstart/
-  - /docs/extras/
 ---
 Under construction.
 
