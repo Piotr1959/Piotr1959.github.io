@@ -2,7 +2,6 @@
 title: Signals
 permalink: /docs/signals/
 ---
-Under construction.
 
 CutSMS [Signal]() is an abstract vector that keeps values with defined units, according to the selected [Time grid]().
 
@@ -10,11 +9,14 @@ There are following signals types:
 
 {: .note .info} 
 Source<br>
-signal captured directly from origin 
+signal captured directly from origin
+[Sources]() must be first defined in the capture module where you set [unit]() for it. 
 
 {: .note .info} 
 Sync<br>
-original signal without gaps or errors synchronized with selected [Time grid]() signal
+original signal without gaps or errors synchronized with selected [Time grid]() signal.
+Has the same unit as correspond [Source]() signal
+
 
 {: .note .info} 
 Indicator<br>

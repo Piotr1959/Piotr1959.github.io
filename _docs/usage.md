@@ -3,8 +3,6 @@ title:  Usage
 permalink: /docs/usage/
 ---
 
-Under construction.
-
 Vertical menu `Switch Layout` on the left site.
 
 Here is the list:
