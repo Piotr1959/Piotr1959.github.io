@@ -4,14 +4,13 @@ permalink: /docs/signals/
 ---
 Under construction.
 
-CutSMS `signals` is an abstract vector that keeps values with defined units, according to the selected `time grid`.
+CutSMS [Signal] is an abstract vector that keeps values with defined units, according to the selected [Time grid].
 
 There are following signals types:
 
 {: .note .info} 
 Source<br>
-original signal captured from origin 
-Management system for [signals](), [indicators]() and [models]()
+signal captured directly from origin 
 
 {: .note .info} 
 Sync<br>
