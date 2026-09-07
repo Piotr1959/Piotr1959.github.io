@@ -4,7 +4,7 @@ permalink: /docs/signals/
 ---
 Under construction.
 
-CutSMS [Signal] is an abstract vector that keeps values with defined units, according to the selected [Time grid].
+CutSMS [Signal]() is an abstract vector that keeps values with defined units, according to the selected [Time grid].
 
 There are following signals types:
 
