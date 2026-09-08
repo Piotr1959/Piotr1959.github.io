@@ -5,7 +5,8 @@ permalink: /docs/usage/
 
 Vertical menu `Switch Layout` on the left site.
 
-Here is the list:
+{: .note .info} 
+[Switch Layout]()<br>
 
 * `Domain Definition` - Creates or edit domain.
 * `Signal Definition` - Creates or edit Signal.

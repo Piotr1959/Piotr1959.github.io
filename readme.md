@@ -1,4 +1,4 @@
-# Jekyll docs site
+# CatSMS docs site
 
 This directory contains the code for the Jekyll docs site, [jekyllrb.com](https://jekyllrb.com/).
 
@@ -20,4 +20,4 @@ It's just a jekyll site, afterall! :wink:
 1. Go to <https://icomoon.io/app/>
 2. Choose Import Icons and load `icomoon-selection.json`
 3. Choose Generate Font → Download
-4. Copy the font files and adapt the CSS to the paths we use in Jekyll
+4. Copy the font files and adapt the CSS to the paths we use in CatSMS
